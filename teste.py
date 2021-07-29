@@ -56,7 +56,6 @@ class Liquidificador:
   def velocidade_Z(self):
     self.velocidade = 0  
     self.power = 0
-    
 
 
 # liquidificador = Liquidificador()
